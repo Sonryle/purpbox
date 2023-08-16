@@ -4,7 +4,7 @@
 
 go to github.com/morhetz/gruvbox for the real version haha
 
-Anyways, if you want this it's purple gruvbox because I saw [this](https://www.reddit.com/r/unixporn/comments/13nkf2z/oc_openbsd_autorice_script_in_perl/) and went, "yes please"
+Anyways, if you want this it's purple gruvbox because I saw this https://www.reddit.com/r/unixporn/comments/13nkf2z/oc_openbsd_autorice_script_in_perl/ and went, "yes please"
 
 
 It looks like this:
