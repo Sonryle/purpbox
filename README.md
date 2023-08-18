@@ -18,7 +18,7 @@ And light mode looks like this:
 ![light box](https://github.com/Sonrile/purpbox/assets/122113812/01bbd166-1f86-439c-93bf-2bb5ce2ebb70)
 I think it's fair to say that nobody will be downloading this for the light mode, but you can edit the colors to your
 will easily by going to where your package manager downloads this (for me its ~/.local/share/nvim/site/pack/packer/start/purpbox/)
-and just editing the hex values?#cbc0db
+and just editing the hex values?
 
 If you want to know how i riced my arch linux chromebook like this, i used ![this](https://www.youtube.com/watch?v=DX_gQTQLUZc)
 tutorial and then edited the window decoration's in /user/**your_user**/.local/share/aurorae/themes to be the same purple as my terminal. Then I downloaded the kvantum and kde plasma color theme Win12OS-Nord and used that... I just have purple macos now lmao.
