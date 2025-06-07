@@ -8,7 +8,7 @@ Anyways, if you want this it's purple gruvbox because I saw this https://www.red
 
 
 
-Dark mode looks like this:
+iDark mode looks like this:
 
 ![purple gruvbox](https://github.com/Sonrile/purpbox/assets/122113812/3699ea16-5108-4802-86af-8f0fe346567c)
 (Dark mode is set with :set bg=dark)
